@@ -114,7 +114,7 @@ Python · PyTorch · Hugging Face Transformers · Sentence-Transformers · panda
 
 ## Authors
 
-- **[Your Full Name]** ([@kessneyedor](https://github.com/kessneyedor)): main author; system design, implementation and experiments
+- **AKIMANA KESSNEY EDOR** ([@kessneyedor](https://github.com/kessneyedor)): main author; system design, implementation and experiments
 - **Smriti Tamang**: co-author; evaluation and labeling
 
 Developed for the Seminar on AI, 2026.
